@@ -11,7 +11,7 @@ My name is Michail Roesli and my dream is to provide a meaningful difference to 
 
 - :school: Student at the [University of Victoria](https://www.uvic.ca/) with a focus in Computational Intelligence
 - :computer: Currently learning [Rust](https://www.rust-lang.org/) and [Julia](https://julialang.org/) on the side
-- :notebook: Always on the lookout to learn new things and explore new passion projects
+- :telescope: Always on the lookout to learn new things and explore new passion projects
 
 ## :link: Contact
 

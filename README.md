@@ -1,7 +1,12 @@
 # ``` ~$ whomai ```
-<p>
-  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=miroesli.visitor-badge">
-<p/>
+
+<!--<br/>
+<a href="https://twitter.com/miroesli">
+  <img align="left" alt="Michail Roesli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/miroesli">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>-->
 
 ## Hi there 👋,
 
@@ -18,14 +23,6 @@ My name is Michail Roesli and my dream is to provide a meaningful difference to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miroesli&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :link: Contact
-
-<!--<br/>
-<a href="https://twitter.com/miroesli">
-  <img align="left" alt="Michail Roesli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/miroesli">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>-->
 
 - LinkedIn: https://www.linkedin.com/in/miroesli/
 - Personnal website: https://miroesli.github.io/

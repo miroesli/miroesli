@@ -1,4 +1,4 @@
-# ``` ~$ whomai ```
+# ``` ~$ whoami ```
 
 <!--<br/>
 <a href="https://twitter.com/miroesli">

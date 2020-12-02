@@ -18,8 +18,6 @@ My name is Michail Roesli and my dream is to provide a meaningful difference to 
 - :computer: Currently learning [Rust](https://www.rust-lang.org/) and [Julia](https://julialang.org/) on the side
 - :telescope: Always on the lookout to learn new things and explore new passion projects
 
-[![miroesli's github stats](https://github-readme-stats.vercel.app/api?username=miroesli&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miroesli&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :link: Contact

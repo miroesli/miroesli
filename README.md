@@ -15,8 +15,9 @@ My name is Michail Roesli and my dream is to provide a meaningful difference to 
 ## :boy: About Me
 
 - :school: Graduated from the [University of Victoria](https://www.uvic.ca/) with a focus in Computational Intelligence
-- :computer: Currently learning [Rust](https://www.rust-lang.org/) and [Julia](https://julialang.org/) on the side
+- :computer: Learning [Rust](https://www.rust-lang.org/) and [Julia](https://julialang.org/) on the side
 - :telescope: Always on the lookout to learn new things and explore new passion projects
+- :penguin: I love Linux and open source projects :heart:
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miroesli&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)-->
 
